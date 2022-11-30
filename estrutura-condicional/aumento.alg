@@ -27,6 +27,6 @@ novoSalario<-salario + aumento
 
 escreval("Novo salario:", novoSalario)
 escreval("Aumento:",aumento)
-escreval("Porcentagem:",porcentagem)
+escreval("Porcentagem:",porcentagem,"%")
 
 Fimalgoritmo
