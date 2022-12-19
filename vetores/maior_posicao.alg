@@ -2,8 +2,9 @@ Algoritmo "Maior Posição"
 
 Var
 
-   N, i : inteiro
+   N, i ,posmaior: inteiro
    vet : vetor [0..9] de real
+   maior: real
 
 Inicio
 
