@@ -14,7 +14,7 @@
 The project is still under development and the next updates will focus on the following tasks:
 - [x] Estrutura sequencial
 - [x] Estrutura condicional
-- [] Estrutura Repetitivas
+- [x] Estrutura Repetitivas
 - [] Matrizes
 - [] Vetores
 
